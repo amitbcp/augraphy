@@ -90,23 +90,23 @@ The Bad Photocopy augmentation produces noise blobs simulating a dirty copier.
 
 **Example Result:**
 
-|<b> "Orginal Image</b> |
+|<b> Orginal Image</b> |
 |:--:|
 | ![Original Image](../../images/Augmentations/BadPhotoCopyOriginal.png )|
 
-|<b> "Bad Photo Copy 1</b> |
+|<b> Bad Photo Copy 1</b> |
 |:--:|
 |![Bad Photo Copy 1](../../images/Augmentations/BadPhotoCopyExample1.png) |
 
 
-|<b> "Bad Photo Copy 2</b> |
+|<b> Bad Photo Copy 2</b> |
 |:--:|
 |![Bad Photo Copy 2](../../images/Augmentations/BadPhotoCopyExample2.png)|
 
-|<b> "Bad Photo Copy 3</b> |
+|<b> Bad Photo Copy 3</b> |
 |:--:|
 |![Bad Photo Copy 3](../../images/Augmentations/BadPhotoCopyExample3.png)|
 
-|<b> "Bad Photo Copy 4</b> |
+|<b> Bad Photo Copy 4</b> |
 |:--:|
 |![Bad Photo Copy 4](../../images/Augmentations/BadPhotoCopyExample4.png)|
